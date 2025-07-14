@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+    color: white;
+    ul{
+        color: greenyellow;
+        color: aqua;
+    }
+    ol{
+        display: block;
+        width: 100px;
+        height: 100px;
+        margin: 1rem;
+        padding-top: 10px;
+        background-color: papayawhip;
+        color: navy;
+        font-weight: bold;
+        font-size: 20px;
+    }
+}
